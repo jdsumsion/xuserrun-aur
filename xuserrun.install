@@ -1,6 +1,6 @@
 post_install() {
 
-  printf " This is not the original xuserrun as I found errors in it.  When it is updated it will be replaced.  For now this script should do the trick.  https://github.com/rephorm/xuserrun/issues/2" | fmt -c -w 80 -g 80
+  printf " This is not the original xuserrun as I found errors in it.  When it is updated it will be replaced.  For now this script should do the trick.  https://github.com/rephorm/xuserrun/pull/3" | fmt -c -w 80 -g 80
 
 }
 
